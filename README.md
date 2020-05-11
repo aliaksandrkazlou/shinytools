@@ -1,6 +1,6 @@
-# Name of my article 
+# Causal inference for data scientists: a skeptical view
 
-Code for Name of My Article
+Code for Causal inference for data scientists: a skeptical view
 [Blog]() 
 
 [Medium]()
